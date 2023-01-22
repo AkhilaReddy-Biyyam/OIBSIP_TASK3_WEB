@@ -1,6 +1,6 @@
 # OIBSIP
-##WEB DEVELOPMENT
-###TODOLIST_TASK3
+## WEB DEVELOPMENT
+### TODOLIST_TASK3
 
 Develop a basic to-do app that enables a user to add daily tasks.
 
